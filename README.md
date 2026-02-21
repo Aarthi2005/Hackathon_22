@@ -16,7 +16,6 @@
 Goal: Create a classifier to distinguish real vs. AI-generated images.
 
 Approach:
-
 Either build a custom CNN or fine-tune a pretrained model (ResNet, EfficientNet, etc.).
 
 Train on the provided dataset.
